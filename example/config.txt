@@ -1,0 +1,2 @@
+Prefix plugins/CrossCorrelation/example/
+Plugin CrossCorrelation inputfile sea_ice.csv outputfile sea_ice.crosscorrelation.txt

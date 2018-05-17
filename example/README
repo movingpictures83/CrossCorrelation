@@ -1,0 +1,5 @@
+Note: We obtained the example sea_ice.csv time-series dataset from the following source:
+https://timeseries.weebly.com/data-sets.html
+
+We removed the first row for compatibility
+
