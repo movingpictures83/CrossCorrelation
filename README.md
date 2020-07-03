@@ -2,7 +2,8 @@
 # Language: R
 # Input: CSV (time series datasets)
 # Output: TXT (cross-correlation value)
-# Tested with: PluMA 1.0, R 3.2.5
+# Tested with: PluMA 1.1, R 4.0.0
+# Dependency: stats_4.0.0
 
 PluMA plugin to compute cross-correlation between two time-series datasets.
 The plugin accepts CSV file input and assumes three columns: the first is the
